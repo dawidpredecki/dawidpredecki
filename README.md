@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David - aka Predo.js</h1>
+<h1 align="center">Hello friend 👋, I'm David. It's nice to have you here!</h1>
 <h3 align="center">Just havin' fun with web development and python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predo-js&label=Profile%20views&color=0e75b6&style=flat-square" alt="predo-js" /> </p>
